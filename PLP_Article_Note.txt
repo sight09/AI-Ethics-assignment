@@ -1,0 +1,5 @@
+### AI Ethics — Designing Responsible and Fair AI Systems
+
+This submission analyzes the COMPAS case, provides a reproducible fairness audit plan, and offers practical mitigation strategies. Repository includes a runnable fairness audit script and guidelines for group peer review.
+
+#AIEthicsAssignment #PLPAcademy #Fairness #ResponsibleAI
